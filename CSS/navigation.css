@@ -1,0 +1,36 @@
+.navCont{
+    display: flex;
+    justify-content: space-between;
+    width: 390px;
+    margin-top: 40px;
+    list-style: none;
+}
+.navigation:hover {
+    color: #F38181;
+    border-bottom: 2px solid #F38181;
+}
+.Logo:hover {
+    color: #F38181;
+    border-bottom: 2px solid #F38181;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.navigation {
+    color:#95E1D3;
+    font-size:14px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.Logo {
+    color:#95E1D3;
+    font-size:30px;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}

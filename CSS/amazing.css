@@ -1,0 +1,67 @@
+.with{
+    color: #333333;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 75px;
+    font-family: 'Kaushan Script', cursive;
+}
+.amazingCont {
+    margin: o auto;
+}
+.borderAmazing {
+    margin-top: 41px;
+    border-bottom: 3px solid #F38181;
+    margin-bottom: 66px;
+    width: 61px;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.amazing {
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 0px;
+    font-family:Montserrat-Bold;
+    color:#333333;
+    font-size: 30px;
+}.sectImg{
+    margin-right: 28px;
+    width: 33;
+    height: auto;
+}
+.sectionAll{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 350px;
+    height: 80px;
+}
+.sectHead {
+    margin-top: 0;
+    margin-right: 0;
+    font-size: 14px;
+    color: #333333;
+}
+.bigSectionTop {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.bigSectionDown{
+    margin-bottom: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 9px;
+}
+.textHeight{
+    height: 60px;
+    width: 330px;
+}
+.subText {
+    color:#999999;
+    font-size:15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}

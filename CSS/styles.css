@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import "./amazing.css";
+@import "./navigation.css";
+@import "./team.css";
+p {
+    color:#999999;
+    font-size:15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300;1,400;1,700&family=Roboto:ital,wght@1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import"./m5.css";
